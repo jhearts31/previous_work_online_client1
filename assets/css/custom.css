@@ -1,0 +1,20 @@
+#hero{
+    background: linear-gradient(0deg, rgb(12 255 0) 0%, rgb(6 189 243) 100%) !important;
+}
+
+#header.header-scrolled {
+    background: linear-gradient(0deg, rgb(12 255 0) 0%, rgb(6 189 243) 100%) !important;
+}
+
+#hero h2{
+    color: #000 !important;
+}
+
+.offer{
+    cursor: pointer;
+}
+
+.offer:hover{
+     transform: scale(1.1);
+     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
